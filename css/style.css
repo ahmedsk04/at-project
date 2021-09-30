@@ -59,7 +59,7 @@ html{
     border-radius: 9px;
 }
 .background{
-    background-image: url("robots.jpg");
+    background: rgba(0, 0, 0, 0.7) url('https://github.com/ahmedsk04/at-projects/blob/main/robots.jpg');
     background-size: cover;
     background-blend-mode: darken;
     
