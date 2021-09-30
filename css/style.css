@@ -59,7 +59,8 @@ html{
     border-radius: 9px;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7) url('robots.jpg');
+    background: rgba(0, 0, 0, 0.7);
+    background-image: url("/robots.jpg");
     background-size: cover;
     background-blend-mode: darken;
     
